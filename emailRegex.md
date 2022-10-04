@@ -1,10 +1,8 @@
-# Title (replace with your title)
+Homework challenge 17: Email Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+Being a well equipped developer is more then just writing the code. A good deveolper also writes about the code! In this tutorial I will be explaining how a Regex, or regular expression can be used to match an email.
 
 ## Summary
-
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
 ## Table of Contents
 
